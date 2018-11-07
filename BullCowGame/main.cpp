@@ -7,6 +7,9 @@ void PrintIntro();
 string GetGuessAndPrintBack();
 // string PrintGuess();
 
+// this is testfeature branch
+int test = 0;
+
 // the entry point for our application
 int main() {
 
